@@ -1,4 +1,4 @@
-# sentiment-analysis-potus
+# Sentiment Analysis of Potus' Tweets
 
 Using machine learning, we created a sentiment analyzer that determines if tweets carry positive, neutral, or negative sentiment. In addition, we evaluated time series and identify trends for local variations to more accurately assess Trump’s usual twitter sentiment vs Obama’s.
 
